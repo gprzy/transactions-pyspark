@@ -4,6 +4,7 @@
 
 [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gprzy/transactions-pyspark/blob/main/transactions_pyspark_rdd.ipynb)
 [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gprzy/transactions-pyspark/blob/main/transactions_pyspark_sql.ipynb)
+[![GitHub license](https://img.shields.io/github/license/microsoft/ML-For-Beginners.svg)](https://github.com/gprzy/transactions-pyspark/blob/main/LICENSE)
 
 This repository is a final project about Big Data topic on Computer Science college. In order to answer some questions and extract insights through the processing, summarization and grouping of an extensive dataset, `pyspark` was used, from which two equivalent solutions were presented: one using RDD (resilient distributed dataset, and the other using SQL.
 
